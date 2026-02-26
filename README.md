@@ -2,6 +2,7 @@
 
 A production-grade asynchronous pipeline for battery analytics, moving beyond notebooks into a structured, reproducible system. This project demonstrates the full lifecycle: telemetry ingestion, automated data governance, physics-informed feature engineering, and multi-model benchmarking.
 
+<img width="4454" height="1790" alt="ARCHITECTURE_DIAGRAM_HD" src="https://github.com/user-attachments/assets/a6a2f8c0-d28a-460a-8dfb-eefa7377fd8f" />
 
 
 ##  Project Philosophy
